@@ -20,3 +20,6 @@ Showed me 2 approaches to calculating the dot product;
   (a) Coordinate definition
   (b) Geomeric definiton (involving cosine)
 the former is more commonly used in ML however the latter is also applied as it allows predictions to be made based on the angle between 2 vectors (super cool ngl)
+### *01/09/24*
+4. Matrix <br>
+Showed me the power of matricies but also how little i know about it... To understand more in depth (the math aspect, i need to watch this guy on yt named [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). Excellent channel that has excellent animations to explain all that i need to know regarding matricies and vectors for ML and Deep Learning.

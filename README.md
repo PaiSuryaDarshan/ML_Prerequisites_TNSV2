@@ -11,7 +11,7 @@ Everytime a section is completed, There will be a summary of what exactly i lear
 
 ## **Numpy**
 ### *31/08/24*
-1. Intro <b
+1. Intro <br>
 Showed me why learning Numpy was useful
 2. Arrays vs List <br>
 Showed me the power of arrays compared to list... the ease of carrying out arithmetics whilst avoiding loops
@@ -27,9 +27,5 @@ Showed me the power of matricies but also how little i know about it... To under
 - Things learnt from 3Blue1Brown
   -  What really are vectors?
   -  Linear combinations of vectors
-  -  Linear transformations and matricies
 ### *03/09/24*
-- Things learnt from 3Blue1Brown
-  -  What really are vectors?
-  -  Linear combinations of vectors
   -  Linear transformations and matricies

@@ -28,3 +28,8 @@ Showed me the power of matricies but also how little i know about it... To under
   -  What really are vectors?
   -  Linear combinations of vectors
   -  Linear transformations and matricies
+### *03/09/24*
+- Things learnt from 3Blue1Brown
+  -  What really are vectors?
+  -  Linear combinations of vectors
+  -  Linear transformations and matricies

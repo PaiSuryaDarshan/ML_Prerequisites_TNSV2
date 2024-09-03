@@ -11,7 +11,7 @@ Everytime a section is completed, There will be a summary of what exactly i lear
 
 ## **Numpy**
 ### *31/08/24*
-1. Intro <br>
+1. Intro <b
 Showed me why learning Numpy was useful
 2. Arrays vs List <br>
 Showed me the power of arrays compared to list... the ease of carrying out arithmetics whilst avoiding loops

@@ -31,4 +31,5 @@ Showed me the power of matricies but also how little i know about it... To under
 - Things learnt from 3Blue1Brown
   -  Linear transformations and matricies
 ### *04/09/24*
-
+    [Out of station - Travelling]
+### **

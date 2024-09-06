@@ -35,3 +35,4 @@ Showed me the power of matricies but also how little i know about it... To under
 ### *05/09/24*
     [Out of station - Setting Up]
 ### *06/09/24*
+Revising 3Blue1Brown's content from 

@@ -33,4 +33,4 @@ Showed me the power of matricies but also how little i know about it... To under
 ### *04/09/24*
     [Out of station - Travelling]
 ### *05/09/24*
-    [Out of station - Setting Up]
+    [Ou

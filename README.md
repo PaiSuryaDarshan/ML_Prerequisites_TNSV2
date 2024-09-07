@@ -37,4 +37,4 @@ Showed me the power of matricies but also how little i know about it... To under
 ### *06/09/24*
 Revising 3Blue1Brown's content from 03/09/24
 ### *07/09/24*
-    [No progress made, just spending time with grandma at her place before]
+    [No progress made, just spending time with grandma at her place before I leave tmrw]

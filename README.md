@@ -40,3 +40,5 @@ Revising 3Blue1Brown's content from 03/09/24
     [No progress made, just spending time with grandma at her place before I leave tmrw]
 ### *07/09/24*
     [Out of station - Travelling BACK HOME]
+### *08/09/24*
+    

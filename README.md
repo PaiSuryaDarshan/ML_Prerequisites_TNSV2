@@ -49,4 +49,4 @@ Revising 3Blue1Brown's content from 03/09/24
 ### *12/09/24*
     [Let's GOOOO - New Day, New Start]
 ### *13/09/24*
-Revising 3Blue1Brown's content from 0/09/24
+Revising 3Blue1Brown's content from 03/09/24
